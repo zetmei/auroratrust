@@ -1,0 +1,16 @@
+/* line 8, ../sass/ie8.scss */
+.contain-to-grid .top-bar-section .no-bullet li.has-dropdown > a {
+  display: block;
+  min-height: 81px;
+  line-height: 81px;
+  padding: 0 30px;
+}
+
+/* line 20, ../sass/ie8.scss */
+#content {
+  padding: 30px 0;
+}
+/* line 22, ../sass/ie8.scss */
+#content .block {
+  margin-bottom: 30px;
+}
